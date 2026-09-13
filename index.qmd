@@ -16,7 +16,7 @@ lang: en
 
 ## Biography
 
-I am a researcher at Lingnan University, Hong Kong. I received my Ph.D. in Information and Communication Engineering from Chongqing University and previously worked as a postdoctoral research fellow at the Hong Kong University of Science and Technology. My research focuses on foundation models, computer vision, multimodal learning, and medical image computing.
+I am a Research Assistant Professor at Lingnan University, Hong Kong. I received my Ph.D. in Information and Communication Engineering from Chongqing University and previously worked as a postdoctoral research fellow at the Hong Kong University of Science and Technology. My research focuses on foundation models, computer vision, multimodal learning, and medical image computing.
 
 ## Research interests
 
@@ -29,13 +29,14 @@ I am a researcher at Lingnan University, Hong Kong. I received my Ph.D. in Infor
 ### Lingnan University, Hong Kong
 
 Lingnan University, Hong Kong.
+October 2025 –
 
 <!-- Add the confirmed title, division/school and appointment dates here before publishing. -->
 
 ### Hong Kong University of Science and Technology
 
 **Postdoctoral Research Fellow**, Department of Computer Science and Engineering  
-March 2024 – September 2024
+March 2024 – September 2025
 
 ## Education
 
@@ -60,7 +61,7 @@ September 2014 – June 2018
 
 3. **Fuxiang Huang**, et al. "Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm." International Journal of Computer Vision (IJCV), 2025.
 
-4. Jiayi Zhu, **Fuxiang Huang**†, Qiong Luo and Hao Chen. "A Benchmark for Breast Cancer Screening and Diagnosis in Mammogram Visual Question Answering." Nature Communications, 2025. (co-first author)
+4. Jiayi Zhu, **Fuxiang Huang**†, Qiong Luo and Hao Chen. "A Benchmark for Breast Cancer Screening and Diagnosis in Mammogram Visual Question Answering." Nature Communications, 2025. 
 
 5. **Fuxiang Huang**, Lei Zhang\*, Yang Yang, and Xichuan Zhou, "Probability weighted compact feature for domain adaptive retrieval," in IEEE Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9579-9588, 2020.
 
@@ -78,9 +79,9 @@ September 2014 – June 2018
 
 12. **Fuxiang Huang**, et al. "Surgical Video Generation From Diffusion to World Models: A Survey." International Conference on Intelligent Perception and Pattern Recognition (IPPR) 2026. (Accepted; Best Paper Award)
 
-13. Xiaowei Fu, **Fuxiang Huang**†, Yuhang Zhou, Huimin Ma, Xin Xu and Lei Zhang\*, "Cross-Modal Cross-Domain Dual Alignment Network for RGB-Infrared Person Re-Identification," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 32, no. 10, pp. 6874-6887, Oct 2022. (co-first author)
+13. Xiaowei Fu, **Fuxiang Huang**†, Yuhang Zhou, Huimin Ma, Xin Xu and Lei Zhang\*, "Cross-Modal Cross-Domain Dual Alignment Network for RGB-Infrared Person Re-Identification," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 32, no. 10, pp. 6874-6887, Oct 2022.
 
-14. Yuhang Zhou, **Fuxiang Huang**†, Weijie Chen, Shiliang Pu, and Lei Zhang\*, "Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 33, no. 10, pp. 5894-5907, Oct. 2023. (co-first author)
+14. Yuhang Zhou, **Fuxiang Huang**†, Weijie Chen, Shiliang Pu, and Lei Zhang\*, "Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re-Identification," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), vol. 33, no. 10, pp. 5894-5907, Oct. 2023. 
 
 15. Lei Zhang\*, Ji Liu, **Fuxiang Huang**, Yang Yang and David Zhang, "Deep-Like Hashing-in-Hash for Visual Retrieval: An Embarrassingly Simple Method," IEEE Transactions on Image Processing (TIP), vol. 29, pp. 8149-8162, 2020.
 
@@ -90,7 +91,7 @@ September 2014 – June 2018
 
 18. Yuting He, **Fuxiang Huang**, Xinrui Jiang, Yuxiang Nie, Minghao Wang, Jiguang Wang and Hao Chen. "Foundation model for advancing healthcare: challenges, opportunities and future directions." IEEE Reviews in Biomedical Engineering (2024).
 
-19. Suyan Li, **Fuxiang Huang**†, and Lei Zhang\*. "A Survey of Multimodal Composite Editing and Retrieval." Visual Intelligence (2025). (co-first author)
+19. Suyan Li, **Fuxiang Huang**†, and Lei Zhang\*. "A Survey of Multimodal Composite Editing and Retrieval." Visual Intelligence (2025). 
 
 20. Xiaowei Fu, **Fuxiang Huang**, Guoyin Wang, Xinbo Gao, and Lei Zhang\*. "M3C: Resist Agnostic Attacks by Mitigating Consistent Class Confusion Prior." IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.
 
@@ -121,8 +122,9 @@ The following projects are listed as collaborative research participation; no pr
 
 ## Teaching
 
-- Deep Learning in Practice
-- Generative AI
+- Deep Learning in Practice (PhD level) — Instructor
+
+- Generative Artificial Intelligence (Undergraduate level) — Instructor
 
 <!-- Add institution, term and teaching role for each course when confirmed. -->
 
