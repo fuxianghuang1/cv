@@ -53,7 +53,7 @@ September 2014 – June 2018
 
 ## Publications
 
-† Equal contribution / co-first author. * Corresponding author. Author-contribution markers follow the source CV.
+† Equal contribution / co-first author. * Corresponding author. 
 
 1. **Fuxiang Huang**, et al. "A Versatile Foundation Model for AI-enabled Mammogram Interpretation," in Nature Biomedical Engineering, 2026. (Accepted)
 
@@ -104,8 +104,6 @@ September 2014 – June 2018
 24. Xiaowei Fu, Shiyu Ye, Chenxu Zhang, **Fuxiang Huang**, Xin Xu, Lei Zhang. "Token Calibration for Transformer-Based Domain Adaptation." IEEE Transactions on Image Processing (TIP), 35 (2026): 57-68.
 
 ## Research projects
-
-The following projects are listed as collaborative research participation; no principal-investigator role is claimed.
 
 ### LiVE Group, Chongqing University
 
