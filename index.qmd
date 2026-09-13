@@ -7,7 +7,7 @@ lang: en
 ::: {.cv-intro}
 **Lingnan University · Hong Kong**
 
-<![fxhuang@ln.edu.hk](mailto:fxhuang@ln.edu.hk) · [fxhuang1995@gmail.com](mailto:fxhuang1995@gmail.com)>
+<!--[fxhuang@ln.edu.hk](mailto:fxhuang@ln.edu.hk) · [fxhuang1995@gmail.com](mailto:fxhuang1995@gmail.com)-->
 
 *Curriculum vitae · Content updated 2 September 2026*
 :::
