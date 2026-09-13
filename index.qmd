@@ -1,0 +1,95 @@
+---
+title: "Fuxiang Huang (黄福香)"
+date: last-modified
+author: "Research Assistant Professor, Lingnan University"
+---
+
+::: {.columns}
+::: {.column width="70%"}
+
+**Email**: fxhuang@ln.edu.hk; fxhuang1995@gmail.com
+
+Google Scholar: <https://scholar.google.com/citations?user=4BvQU00AAAAJ&hl=en>
+
+Research interests: foundation model, computer vision, multimodal fusion, intelligent medical image computing.
+
+:::
+::: {.column width="30%"}
+<!-- 头像：把你的证件照上传仓库命名 portrait.jpg，取消下面这行注释即可 -->
+<!-- ![](portrait.jpg){width="180"} -->
+:::
+:::
+
+## Biography
+Dr. Fuxiang Huang is a Research Assistant Professor in the Division of Artificial Intelligence at the School of Data Science, Lingnan University.
+She received her Ph.D. from Chongqing University and previously served as a postdoctoral research fellow at the Hong Kong University of Science and Technology.
+
+She has published over 20 papers in prestigious journals and conferences, including *Nature Communications*, *Nature Biomedical Engineering*, *npj Digital Medicine*, IEEE TPAMI, IEEE RBME, IEEE TIP, IEEE TNNLS, IEEE TMM, IEEE TCSVT, IJCV, KBS, CVPR, and AAAI.
+
+She serves as a regular reviewer for top‑tier journals and conferences such as IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TGRS, Neural Networks, CVPR, AAAI, and IJCAI.
+Currently she works as **Guest Editor** for the journal *Information Fusion*.
+
+## Education
+- **Chongqing University**, 2018.09‑2023.12
+  Ph.D. in Information and Communication Engineering. Supervisor: Prof. Lei Zhang
+- **China West Normal University**, 2014.09‑2018.06
+  B.Eng. in Applied Electronic Technology Education
+
+## Work Experience
+- **Lingnan University, Hong Kong**, 2025.10‑Present
+  Research Assistant Professor, Division of Artificial Intelligence, School of Data Science
+- **Hong Kong University of Science and Technology**, 2024.03‑2024.09
+  Postdoctoral Research Fellow, Department of Computer Science and Engineering
+
+## Peer‑Reviewed Publications
+> (\* corresponding author; ¹ equal‑contribution / co‑first author)
+
+1. Fuxiang Huang, et al. *A Versatile Foundation Model for AI‑enabled Mammogram Interpretation*. **Nature Biomedical Engineering**, 2026. (Accept)
+2. Fuxiang Huang, Suqi Song, Lei Zhang\*. Gradient Harmonization for Unsupervised Domain Adaptation. **IEEE TPAMI**, 2024. (CCF‑A)
+3. Huang Fuxiang, et al. Unsupervised Robust Domain Adaptation: Paradigm, Theory and Algorithm. **IJCV**, 2025.
+4. Jiayi Zhu, Fuxiang Huang¹, Qiong Luo, Hao Chen. A Benchmark for Breast Cancer Screening and Diagnosis in Mammogram Visual Question Answering. **Nature Communications**, 2025. (co‑first)
+5. Fuxiang Huang, Lei Zhang\*, Yang Yang, Xichuan Zhou. Probability weighted compact feature for domain adaptive retrieval. **CVPR**, 2020. (CCF‑A)
+6. Fuxiang Huang, Lei Zhang\*, Xiaowei Fu, Suqi Song. Dynamic Weighted Combiner for Mixed‑Modal Image Retrieval. **AAAI**, 2024. (CCF‑A)
+7. Fuxiang Huang, Lei Zhang\*, Xinbo Gao. Domain Adaptation Preconceived Hashing for Unconstrained Visual Retrieval. **IEEE TNNLS**, 2022.
+8. Fuxiang Huang, Lei Zhang\*, Yuhang Zhou, Xinbo Gao. Adversarial and Isotropic Gradient Augmentation for Image Retrieval with Text Feedback. **IEEE TMM**, 2023.
+9. Fuxiang Huang, Xuefeng Lv, Lei Zhang\*. Coarse‑to‑fine Sparse Self‑attention for Vehicle Re‑identification. **KBS**, 2023.
+10. Fuxiang Huang, Lei Zhang\*. Language Guided Local Infiltration for Interactive Image Retrieval. **CVPR Workshop**, 2023.
+11. Fuxiang Huang, Jingru Fu, Lei Zhang\*. Bilateral co‑transfer for unsupervised domain adaptation. *Journal of Automation and Intelligence*, 2023.
+12. Fuxiang Huang, et al. Surgical Video Generation From Diffusion to World Models: A Survey. **IPPR**, 2026. (Accept, Best Paper)
+13. Xiaowei Fu, Fuxiang Huang¹, et al. Cross‑Modal Cross‑Domain Dual Alignment Network for RGB‑Infrared Person Re‑Identification. **IEEE TCSVT**, 2022. (co‑first)
+14. Yuhang Zhou, Fuxiang Huang¹, et al. Stochastic Gradient Perturbation: An Implicit Regularizer for Person Re‑Identification. **IEEE TCSVT**, 2023. (co‑first)
+15. Lei Zhang\*, Ji Liu, **Fuxiang Huang**, et al. Deep‑Like Hashing‑in‑Hash for Visual Retrieval. **IEEE TIP**, 2020.
+16. Lei Zhang\*, Xiaowei Fu, **Fuxiang Huang**, et al. An Open‑World, Diverse, Cross‑Spatial‑Temporal Benchmark for Dynamic Wild Person Re‑Identification. **IJCV**, 2024.
+17. Lei Zhang\*, Ji Liu, Yang Yang, **Fuxiang Huang**, et al. Optimal Projection Guided Transfer Hashing for Image Retrieval. **IEEE TCSVT**, 2020.
+18. Yuting He, **Fuxiang Huang**, et al. Foundation model for advancing healthcare: challenges, opportunities and future directions. **IEEE Reviews in Biomedical Engineering**, 2024.
+19. Suyan Li, Fuxiang Huang¹, Lei Zhang\*. A Survey of Multimodal Composite Editing and Retrieval. *Visual Intelligence*, 2025. (co‑first)
+20. Xiaowei Fu, **Fuxiang Huang**, et al. M3C: Resist Agnostic Attacks by Mitigating Consistent Class Confusion Prior. **IEEE TPAMI**, 2025. (CCF‑A)
+21. Lina Ma, Xiaowei Fu, Fuxiang Huang\*, et al. Rectifying Adversarial Sample with Low Entropy Prior for Test‑Time Defense. **IEEE TMM**, 2026.
+22. Zhilong Zhang, Lei Zhang, Qing He, Shuyin Xia, Guoyin Wang, **Fuxiang Huang**. Implicit Non‑Causal Factors are Out via Dataset Splitting for Domain Generalization Object Detection. **IJCV**, 2026.
+23. Shu Yang, Fengtao Zhou, Leon Mayer, **Fuxiang Huang**, et al. Large‑scale self‑supervised video foundation model for intelligent surgery. **npj Digital Medicine**, 2026.
+24. Xiaowei Fu, Shiyu Ye, Chenxu Zhang, **Fuxiang Huang**, et al. Token Calibration for Transformer‑Based Domain Adaptation. **IEEE TIP**, 2026.
+
+## Research Projects
+### LiVE Group, Chongqing University
+- National Natural Science Foundation of China: Study on secure transfer learning for multi‑domain generalization based on causal invariance
+- National Natural Science Foundation of China: Study on model‑driven transfer learning for large‑scale multi‑source image understanding
+- Chongqing Outstanding Youth Foundation: Research on visual perception and migration robustness in complex environments
+- National Key Research and Development Program: Artificial intelligence security defense and evaluation technology
+- Chongqing Artificial Intelligence Major Project: Cross‑media intelligent computing key technology and typical application platform development and demonstration
+
+### Smart Lab, HKUST
+- Pneumoconiosis Compensation Fund Board: AIPS: Artificial Intelligence‑Enhanced Pneumoconiosis Screening and Staging from Chest Radiographs
+- Innovation and Technology Fund: Artificial Intelligence Assisted Breast Cancer Screening, Diagnosis and Efficacy Prediction of Neoadjuvant Chemotherapy from Multimodal Data
+
+## Academic Service
+**Guest Editor**
+- Information Fusion
+
+**Journal Reviewer**
+IEEE TPAMI, IEEE TNNLS, IEEE TIP, IEEE TGRS, Neural Networks
+
+**Conference Reviewer**
+CVPR, AAAI, IJCAI
+
+---
+*Last updated: {{< meta date >}}*
