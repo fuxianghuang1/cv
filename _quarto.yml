@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "Fuxiang Huang"
+  # Uncomment after replacing USERNAME and REPOSITORY with your actual values.
+  # site-url: "https://USERNAME.github.io/REPOSITORY/"
+  search: false
+  page-footer: "© Fuxiang Huang · Built with Quarto"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "On this page"
+    toc-depth: 2
+    smooth-scroll: true
+    link-external-newwindow: true
+    respect-user-color-scheme: true
